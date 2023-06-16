@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](./github-header-images.png)
+<!--
 <h1 align="center">Hi 👋, I'm Himnish Jain</h1>
 <h3 align="center">A passionate student studying Computer Science, Statistics and Economics.</h3>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himnish&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="himnish" /> </p>
 <!--
 - 🔭 I’m currently working on [Project Delta](https://github.com/Himnish/Project-Delta)
