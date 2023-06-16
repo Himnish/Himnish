@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./github-header-image.png)
+![Header](./github-header-images.png)
 <h1 align="center">Hi 👋, I'm Himnish Jain</h1>
 <h3 align="center">A passionate student studying Computer Science, Statistics and Economics.</h3>
 
