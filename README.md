@@ -63,3 +63,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+
+## 🤖 Statistics
+[![GitHub Streak](https://streak-stats.demolab.com?user=Himnish&theme=neon-dark&hide_border=true&fire=EB5454&sideNums=4AEB82&background=45%2C000000%2C0006EB)](https://git.io/streak-stats)
