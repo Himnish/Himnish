@@ -67,3 +67,6 @@ Here are some ideas to get you started:
 
 ## 🤖 Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=Himnish&theme=neon-dark&hide_border=true&fire=EB5454&sideNums=4AEB82&background=45%2C000000%2C0006EB)](https://git.io/streak-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himnish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
