@@ -67,5 +67,7 @@ Here are some ideas to get you started:
 ## 🤖 Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=Himnish&theme=neon-dark&hide_border=true&fire=EB5454&sideNums=4AEB82&background=45%2C000000%2C0006BC)](https://github.com/Himnish)
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=Himnish&theme=neon&hide_border=true&fire=EB5454&background=45%2C070025%2C000751&ring=DEEB00&currStreakNum=00E4EB&currStreakLabel=00E4EB)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himnish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
